@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FuckApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- main.xml begin -->
+    <string-array name="tabhost_tag">
+        <item>frist_tab_item</item>
+        <item>second_tab_item</item>
+        <item>thrid_tab_item</item>
+    </string-array>
+    <string-array name="main_grid_item_tv">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    <string-array name="main_grid_item_iv">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </string-array>
+    <string name="main_tv_hot">热门</string>
+    <string name="main_tv_more">更多</string>
+    <!-- main.xml end -->
+
+</resources>
